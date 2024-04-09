@@ -25,7 +25,7 @@ What is the best way to divide the given mobile app (Meat) in terms of micro-fro
 
 ## Decision Outcome
 
-Chosen option: "Login + Search + Feedback + Saved + News", because Overall it makes more sense to have a simplified option.
+Chosen option: "Login + Search + Feedback + Saved + News", because overall it makes more sense to have a simplified option.
 
 ### Positive Consequences
 
