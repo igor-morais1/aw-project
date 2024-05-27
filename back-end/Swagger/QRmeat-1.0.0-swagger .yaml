@@ -154,7 +154,7 @@ paths:
       responses:
         '204':
           description: No Content
-  /home:
+  /supermarkets:
     get:
       summary: Get homepage information
       responses:
